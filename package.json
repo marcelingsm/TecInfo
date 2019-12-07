@@ -1,0 +1,13 @@
+{
+	"name": "tecinfoJS",
+	"version": "1.0.0",
+	"descrition":"",
+	"main": "index.js",
+	"script"{
+		"test":"echo \"erro"
+	},
+	"keywords": [],
+	"author": "",
+	"license":"ISC"
+
+}
